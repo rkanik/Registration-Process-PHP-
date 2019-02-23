@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+width="305" height="244" viewBox="0 0 305 244"><defs>
+<filter id="a" x="0" y="0" width="305" height="244" filterUnits="userSpaceOnUse"><feOffset dy="5" input="SourceAlpha"/><feGaussianBlur stdDeviation="6" result="b"/><feFlood flood-opacity="0.161"/><feComposite operator="in" in2="b"/><feComposite in="SourceGraphic"/></filter></defs><g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#a)"><path d="M0,0H269V160L0,208Z" transform="translate(18 13)" fill="#54807a"/></g></svg>
